@@ -1,0 +1,9 @@
+========================================================
+Installation nd running
+
+activate env- 1) python -m venv new_venv
+2) .\new_venv\Scripts\activate
+3) pip install --upgrade tensorflow streamlit
+
+
+brain tumor ---new_venv\Scripts\activate
